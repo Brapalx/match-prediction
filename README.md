@@ -29,7 +29,7 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Link to notebook 1](match_prediction.ipynb)
 - [Link to notebook 2]()
 - [Link to notebook 3]()
 
